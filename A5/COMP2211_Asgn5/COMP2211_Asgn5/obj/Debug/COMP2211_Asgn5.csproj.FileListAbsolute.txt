@@ -1,0 +1,10 @@
+E:\Year 5\COMP 2211 - Programming Methods\Asgn 5\COMP2211_Asgn5\COMP2211_Asgn5\obj\Debug\COMP2211_Asgn5.csprojAssemblyReference.cache
+E:\Year 5\COMP 2211 - Programming Methods\Asgn 5\COMP2211_Asgn5\COMP2211_Asgn5\obj\Debug\COMP2211_Asgn5.Form1.resources
+E:\Year 5\COMP 2211 - Programming Methods\Asgn 5\COMP2211_Asgn5\COMP2211_Asgn5\obj\Debug\COMP2211_Asgn5.Properties.Resources.resources
+E:\Year 5\COMP 2211 - Programming Methods\Asgn 5\COMP2211_Asgn5\COMP2211_Asgn5\obj\Debug\COMP2211_Asgn5.csproj.GenerateResource.cache
+E:\Year 5\COMP 2211 - Programming Methods\Asgn 5\COMP2211_Asgn5\COMP2211_Asgn5\obj\Debug\COMP2211_Asgn5.csproj.CoreCompileInputs.cache
+E:\Year 5\COMP 2211 - Programming Methods\Asgn 5\COMP2211_Asgn5\COMP2211_Asgn5\bin\Debug\COMP2211_Asgn5.exe.config
+E:\Year 5\COMP 2211 - Programming Methods\Asgn 5\COMP2211_Asgn5\COMP2211_Asgn5\bin\Debug\COMP2211_Asgn5.exe
+E:\Year 5\COMP 2211 - Programming Methods\Asgn 5\COMP2211_Asgn5\COMP2211_Asgn5\bin\Debug\COMP2211_Asgn5.pdb
+E:\Year 5\COMP 2211 - Programming Methods\Asgn 5\COMP2211_Asgn5\COMP2211_Asgn5\obj\Debug\COMP2211_Asgn5.exe
+E:\Year 5\COMP 2211 - Programming Methods\Asgn 5\COMP2211_Asgn5\COMP2211_Asgn5\obj\Debug\COMP2211_Asgn5.pdb
